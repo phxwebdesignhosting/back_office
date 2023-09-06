@@ -22,10 +22,10 @@ class library {
         }
     }
 }
-$vars['SQL']['HOST'] == 'localhost'
-$vars['SQL']['USER'] == 'root'
-$vars['SQL']['PASS'] == 'Cpj21384!'
-$vars['SQL']['DB'] == 'main_db'
+$vars['SQL']['HOST'] == 'localhost';
+$vars['SQL']['USER'] == 'root';
+$vars['SQL']['PASS'] == 'Cpj21384!';
+$vars['SQL']['DB'] == 'main_db';
 
 
 $lib = new library($vars);
